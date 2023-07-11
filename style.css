@@ -109,16 +109,25 @@ padding: 0px;
 
 .caption-container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     gap: 20px;
     align-items: center;
     padding-top: 20px;
     font-weight: 700;
     line-height: 35px;
+    padding-left: 40px;
+}
+
+.figcaption-1 {
+    color: black;
+    padding: 15px;
+    text-align: center;
+    text-decoration-line:underline;
+    padding-left: 20px;
 }
 .figcaption {
     color: black;
-    padding: 10px;
+    padding: 15px;
     text-align: center;
     text-decoration-line:underline;
 }
