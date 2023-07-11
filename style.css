@@ -40,5 +40,202 @@ padding: 0px;
 .header-pic{
     width: 635px;
     height: 800px;
+    padding-right: 240px;
+    padding-top: 50px;
 }
 
+/* first section */
+
+.first-section{
+    padding: 250px;
+    text-align: center;
+}
+
+.h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+.p2{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 20px;
+
+}
+
+.img-cap-container{
+    display: block;
+    margin: auto;
+
+}
+.img-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    padding-top: 50px;
+    
+    
+
+}
+.img-5{   
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;    
+    background-color: rgba(5, 151, 160, 0.15);
+    padding-bottom: 0px;
+    
+}
+
+.img-6{     
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+    padding-bottom: 0px;
+
+}
+
+.img-7{    
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;   
+    background-color: rgba(71, 125, 17, 0.15);
+    padding-bottom: 0px;
+}
+
+.caption-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    padding-top: 20px;
+    font-weight: 700;
+    line-height: 35px;
+}
+.figcaption {
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration-line:underline;
+}
+
+                               /* deal section*/
+
+.deal-container{
+    background-color:rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+
+}
+
+.deal-text{
+    padding-left: 250px;
+}
+.h3{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800; 
+}
+.p3{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 594px;
+padding-bottom: 25px;
+
+}
+
+.d-btn{
+    padding-left: 200px;
+}
+.deal-btn{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color:whitesmoke;
+}
+
+.deal-pic{
+    width: 318px;
+    height: 420px;
+}
+
+
+/*instagram section*/
+
+.instagram-container{
+    display: block;
+    padding: 250px;
+}
+.instagram-text{
+    padding-left: 450px;
+}
+.h4{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    width: 594px;
+}
+.p4{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    width: 594px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.instagram-pic{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.coupon-class{
+    padding: 250px;
+}
+.coupon-section{
+    background-image: url("Flower\ Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    width: 1440px;
+    height: 449px;  
+    text-align: center;
+    
+}
+
+.h5{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.p5{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
